@@ -1,0 +1,10 @@
+# CODEOWNERS file for test repository
+
+# Default owners for everything
+* @octocat
+
+# Specific owners for docs
+/docs/ @octocat @github
+
+# Owners for source code
+/src/ @octocat
